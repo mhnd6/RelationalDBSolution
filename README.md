@@ -1,8 +1,9 @@
 # RelationalDBSolution
 
-SQL Server project with CRUD Operations using Dapper
+A Project about storing contacs informations in SQL Server and SQLite.
 
 ## Languages and Tools
 C#
 Visual Studio
 SQL server
+SQLite
