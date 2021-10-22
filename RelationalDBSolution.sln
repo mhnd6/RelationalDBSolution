@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLibrary", "DataAc
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SQLContactDB", "SQLContactDB\SQLContactDB.sqlproj", "{7C9F0272-D06F-4364-8707-7C763229CDC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLiteUI", "SQLiteUI\SQLiteUI.csproj", "{902EE984-902C-44EE-B930-1EAADCDD0CDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SQLiteUI", "SQLiteUI\SQLiteUI.csproj", "{902EE984-902C-44EE-B930-1EAADCDD0CDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuSqlUI", "MuSqlUI\MuSqlUI.csproj", "{B6539D4B-449F-4E42-8A76-09A263DBDFB5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +37,10 @@ Global
 		{902EE984-902C-44EE-B930-1EAADCDD0CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{902EE984-902C-44EE-B930-1EAADCDD0CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{902EE984-902C-44EE-B930-1EAADCDD0CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6539D4B-449F-4E42-8A76-09A263DBDFB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6539D4B-449F-4E42-8A76-09A263DBDFB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6539D4B-449F-4E42-8A76-09A263DBDFB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6539D4B-449F-4E42-8A76-09A263DBDFB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
