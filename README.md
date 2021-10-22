@@ -1,6 +1,6 @@
 # RelationalDBSolution
 
-A Project about storing contacs informations in three diffrent rational databeses; SQL Server and SQLite and MySql.
+A Project about storing contacts information in three diffrent rational databeses; SQL Server and SQLite and MySql.
 
 ## Languages and Tools
 - C#
@@ -8,3 +8,4 @@ A Project about storing contacs informations in three diffrent rational databese
 - Dapper
 - SQL server
 - SQLite
+- MySql
